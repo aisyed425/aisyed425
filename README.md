@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me @aisyed425 on Instagram and aisyed425@gmail.com
+- 👀 I’m a 3rd year Computer Engineering Student
+- 🌱 I’m currently learning Web Development, Game Development, Artifical Intelligence, and Computer Engineering
+- 📫 You can reach me @aisyed425 on Instagram and aisyed425@gmail.com
 
 ------------------------ Current Project(s)-------------------------------
 - Smart Mirror
