@@ -5,10 +5,10 @@
 
 ------------------------ Current Project(s)-------------------------------
 - Smart Mirror
--   Powered by a Raspberry Pi 4 using the MAGIC MIRROR MODULE
+-  --- Powered by a Raspberry Pi 4 using the MAGIC MIRROR MODULE
 - Action RPG Game
--   Created with the GODOT Gaming Engine
--   Coded in GD Script
+-  --- Created with the GODOT Gaming Engine
+-  --- Coded in GD Script
 <!---
 aisyed425/aisyed425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
