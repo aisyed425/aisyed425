@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me @aisyed425 on Instagram and aisyed425@gmail.com
 
-- 
 ------------------------ Current Project(s)-------------------------------
 - Smart Mirror
 -   Powered by a Raspberry Pi 4 using the MAGIC MIRROR MODULE
