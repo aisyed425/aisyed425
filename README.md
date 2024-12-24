@@ -7,10 +7,11 @@
 
 **- Smart Mirror**
 -  --- Powered by a Raspberry Pi 4 using the MAGIC MIRROR MODULE
--  
+  
 **- Action RPG Game**
 -  --- Created with the GODOT Gaming Engine
 -  --- Coded in GD Script
+  
 - **Pokedex**
 - --- HTML Code
 <!---
