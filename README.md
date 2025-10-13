@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m a 3rd year Computer Engineering Student
+- 👀 I’m a 3rd year Computer Engineering Student currently on co-op at PM Accelerator
 - 🌱 I’m currently learning Web Development, Game Development, Artifical Intelligence, and Computer Engineering
 - 📫 You can reach me @aisyed425 on Instagram and aisyed425@gmail.com
 
