@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed
 - 👀 I’m a 3rd year Computer Engineering Student currently on co-op at PM Accelerator
-- 🌱 I’m currently learning Web Development, Game Development, Artifical Intelligence, and Computer Engineering
+- 🌱 I’m currently learning Web Development, Game Development, and Artifical Intelligence
 - 📫 You can reach me on LinkedIN here: https://www.linkedin.com/in/ahmed--syed/ 
 - 📫 You can reach my email here: aisyed425@gmail.com
 
