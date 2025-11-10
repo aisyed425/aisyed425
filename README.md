@@ -5,6 +5,8 @@ You can reach me on LinkedIN here: https://www.linkedin.com/in/ahmed--syed/
 You can reach my email here: aisyed425@gmail.com
 
 ------------------------ Current Project(s)-------------------------------
+**- Facial Recognition App**
+-  --- OpenCV’s Haar Cascade
 
 **- AI Resume Builder**
 -  --- Creating a discord AI bot to read and create resumes tailored to specific jobs
