@@ -7,7 +7,7 @@ You can reach my email here: aisyed425@gmail.com
 ------------------------ Current Project(s)-------------------------------
 
 ### Facial Recognition App
--  --- OpenCV Haar Cascade\
+-  --- OpenCV Haar Cascade
 -  --- Python
 
 ### AI Resume Builder
