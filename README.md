@@ -6,14 +6,14 @@ You can reach my email here: aisyed425@gmail.com
 
 ------------------------ Current Project(s)-------------------------------
 
-# Facial Recognition App
+### Facial Recognition App
 -  --- OpenCV Haar Cascade\
 -  --- Python
 
-# AI Resume Builder
+### AI Resume Builder
 -  --- Creating a discord AI bot to read and create resumes tailored to specific jobs
   
-# Action RPG Game
+### Action RPG Game
 -  --- Created with the GODOT Gaming Engine
 -  --- Coded in GD Script
   
