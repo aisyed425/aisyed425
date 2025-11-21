@@ -9,6 +9,8 @@ You can reach my email here: aisyed425@gmail.com
 ### Facial Recognition App
 -  --- OpenCV Haar Cascade
 -  --- Python
+-  --- Arduino
+-  --- CAD
 
 ### AI Resume Builder
 -  --- Creating a discord AI bot to read and create resumes tailored to specific jobs
