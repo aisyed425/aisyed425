@@ -14,12 +14,8 @@ You can reach my email here: aisyed425@gmail.com
 -  --- Arduino
 -  --- CAD
 
-### AI Resume Builder
--  --- Creating a discord AI bot to read and create resumes tailored to specific jobs
-  
-### Action RPG Game
--  --- Created with the GODOT Gaming Engine
--  --- Coded in GD Script
+### Triple Double
+- --- NBA Game Sim
   
 <!---
 aisyed425/aisyed425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
