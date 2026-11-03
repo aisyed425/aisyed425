@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed!
 I’m a 4th year Computer Engineering Student
 I am interested in DevOps and Machine Learning.
-Prev @ PMA
+**Prev @ PM Accelerator**
 I’m currently learning Web Development, Game Development, and Artifical Intelligence
 You can reach me on LinkedIN here: https://www.linkedin.com/in/ahmed--syed/ 
 You can reach my email here: aisyed425@gmail.com
