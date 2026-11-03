@@ -19,21 +19,5 @@ You can reach my email here: aisyed425@gmail.com
 
 AI-powered NBA analytics platform for player evaluation, performance prediction, game simulation, and basketball intelligence.
 
----
-
-## ✅ Completed Projects
-
-*These projects have reached an initial functional release and may continue receiving improvements, refinements, and additional features.*
-
 ### Nexus AI Governance & Pilot Management Platform
 Enterprise AI governance platform designed to evaluate AI implementation proposals, assess organizational risks, manage pilot initiatives, and monitor business impact.
-
-### HeadSpace
-[GitHub Repository](https://github.com/artin59/HeadSpace)
-
-### Desktop Cleaner
-[GitHub Repository](https://github.com/aisyed425/Desktop-Cleaner)
-
-Python-based desktop automation tool that organizes files into categorized folders, streamlining file management and reducing manual organization.
-
----
