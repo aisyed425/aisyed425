@@ -6,7 +6,7 @@ I am interested in DevOps and Machine Learning.
 **Prev @ PM Accelerator**
 
 
-I’m currently learning Web Development, Game Development, and Artifical Intelligence
+I’m currently studying Web Development, Development Operations, and Artifical Intelligence
 You can reach me on LinkedIN here: https://www.linkedin.com/in/ahmed--syed/ 
 You can reach my email here: aisyed425@gmail.com
 
